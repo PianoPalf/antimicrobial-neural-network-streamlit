@@ -20,7 +20,6 @@ Click [**here**](https://antimicrobial-neural-network-app-palframan.streamlit.ap
 
 ## Table of Contents
 
-- [Instructions](#instructions)
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)

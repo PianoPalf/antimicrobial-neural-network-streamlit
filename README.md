@@ -14,6 +14,10 @@ Antimicrobial peptides (AMPs) possess broad-spectrum antimicrobial properties an
 
 This project uses a Deep Convolutional Neural Network Model to classify peptides as AMPs or Non-AMPs based on amino acid sequence. 
 
+## Using AMPnet
+
+Click [**here**](https://antimicrobial-neural-network-app-palframan.streamlit.app) to use AMPnet.
+
 ## Table of Contents
 
 - [Instructions](#instructions)
